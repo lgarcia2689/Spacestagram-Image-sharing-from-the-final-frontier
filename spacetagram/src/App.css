@@ -1,0 +1,18 @@
+.global_c{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  border-style: ridge;
+  border-width: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 60rem;
+}
+.under{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
